@@ -1,10 +1,24 @@
-# **Oleg Kovylin**             
+# **Oleg Kovylin**
 
 
-
-![mountains](me.svg "Пейзаж с горами")
---------------------
-
+![me](me.svg "Me")
 
 ### Contact:
           	Discord: Oleg Kovylin (@matou-de-lune)
+***
+
+### Personal information
+I want to learn JS programming. I'm interested in the possibilities that this language gives for designing and interacting with web pages.
+***
+
+### Skills
+I will update this section as I learn more.
+***
+
+### Code examples
+```
+function multiply(a, b) {
+  return a * b
+}
+```
+***
