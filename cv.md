@@ -22,3 +22,14 @@ function multiply(a, b) {
 }
 ```
 ***
+
+### Completed projects
+CV#1. Markdown & Git
+***
+
+### Education
+coming soon... _RS School 2022Q1JavaScript/Front-end Stage#1_
+***
+
+### English language
+On the way to A2.
