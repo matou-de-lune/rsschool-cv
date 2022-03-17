@@ -1,0 +1,16 @@
+.header {	
+	width:70%;
+  	border-bottom: 1px solid black;
+  	padding: 10px;
+	overflow: auto;
+}
+
+.name {
+	bottom:0;
+	width:50%;
+	font-size: 48px;
+}
+
+.img {
+	float: right;
+}
