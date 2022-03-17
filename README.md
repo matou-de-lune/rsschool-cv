@@ -1,1 +1,1 @@
-https://matou-de-lune.github.io/rsschool-cv/cv
+https://matou-de-lune.github.io/rsschool-cv/
